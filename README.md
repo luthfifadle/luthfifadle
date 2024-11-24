@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I'm a **Software Developer** passionate about codi
 ## 🚀 My Top Projects
 Here are a few projects I'm most proud of:
 
-- [**Project 1**](https://arnes.id): Developed APIs and integrated with Tiketux and payment systems for a seamless ticket reservation experience.
-- [**Project 2**](https://pasteurtrans.id): Built APIs and a WhatsApp bot to simplify user reservations.
-- [**Project 3**](https://www.mysuzuki.id): Managed API development for MySuzuki, serving Suzuki customers across Indonesia.
-- [**Project 4**](https://aftersales.suzuki.co.id): Contributed to the backend system supporting Suzuki's internal operations.
-- [**Project 5**](https://geoff-max.com): Designed and developed a back-office system to optimize internal workflows for Geoffmax Footwear.
+- [**Arnes Ticketing System**](https://arnes.id): Developed APIs and integrated with Tiketux and payment systems for a seamless ticket reservation experience.
+- [**Pasteurtrans System**](https://pasteurtrans.id): Built APIs and a WhatsApp bot to simplify user reservations.
+- [**MySuzuki**](https://www.mysuzuki.id): Managed API development for MySuzuki, serving Suzuki customers across Indonesia.
+- [**Suzuki After Sales**](https://aftersales.suzuki.co.id): Contributed to the backend system supporting Suzuki's internal operations.
+- [**Geoffmax Footwear System**](https://geoff-max.com): Designed and developed a back-office system to optimize internal workflows for Geoffmax Footwear.
 
 ---
 
